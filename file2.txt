@@ -1,2 +1,3 @@
 First text
 2nd line for 2nd commit
+New branch added
